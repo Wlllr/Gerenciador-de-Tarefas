@@ -31,6 +31,7 @@ Este é um projeto de gerenciamento de tarefas desenvolvido para colocar em prá
 3. Acesse no seu navegador:
   ```
    http://localhost:8080
+   ```
 
 ## 📚 Aprendizados
 Este projeto foi fundamental para consolidar o entendimento sobre o padrão MVC,
